@@ -2,6 +2,7 @@
 
 ```text
 Software Engineer & Systems Builder
+Role: Software Engineer (AI & Automation) at modopod • CS Teacher at Allameh Helli 3
 Focus: Resilient Backend Services • Async Automation & Web Scraping • Cloud & DevOps
 ```
 
@@ -10,6 +11,10 @@ Focus: Resilient Backend Services • Async Automation & Web Scraping • Cloud 
 ### 🚀 About Me
 I design and build robust backend architectures, distributed automation engines, and production-grade developer tooling. Passionate about asynchronous concurrency, high-availability pipelines, and pragmatic software engineering.
 
+- 🏢 **Current Roles:** 
+  - Software Engineer (AI & Automation) at **modopod** (Oct 2025 – Present)
+  - Middle School Computer Science Teacher at **Allameh Helli 3** (Sep 2026 – Present)
+- 🎓 **Education:** B.Sc. in Computer Engineering, Islamic Azad University Central Tehran Branch (2025 – Present)
 - 🛠️ **Core Stack:** Python (AsyncIO, FastAPI, Pydantic, HTTPX), Linux, Docker, PostgreSQL, SQLite (WAL), Redis
 - ⚡ **Specialties:** High-throughput crawlers, multi-channel alerting systems, API design, DevOps automation
 - 📈 **Engineering Philosophy:** Clean code, strict typing, high test coverage, and automated containerized delivery
@@ -41,6 +46,6 @@ DevOps & Cloud Tools:  Docker, Docker Compose, Nginx, Prometheus, Linux Administ
 
 ### 📬 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/mehrad-dadgar](https://linkedin.com) *(Update with your direct handle)*
-- ✉️ **Email:** [mehraddadgar116@gmail.com](mailto:mehraddadgar116@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/mehrad-dadgar-88ba71286](https://www.linkedin.com/in/mehrad-dadgar-88ba71286/)
+- ✉️ **Email:** [mehraddadgarworkpage@gmail.com](mailto:mehraddadgarworkpage@gmail.com)
 - 💬 **Telegram:** Available for backend engineering, automation consulting, and project inquiries.
